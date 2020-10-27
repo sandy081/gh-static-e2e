@@ -19,3 +19,7 @@
     ```
 
 1.  The backend is a Functions project that should be started from the run and debug panel.
+
+## Forward ports
+
+1. Forward ports 3000 and 7071
